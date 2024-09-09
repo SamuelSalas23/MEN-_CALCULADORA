@@ -12,7 +12,7 @@ DESCRIPCION:
 + Biblioteca math. 
 
 ## Uso:
-Describir uso.
+El código implementa una calculadora gráfica en Python utilizando `Tkinter`, que permite realizar operaciones matemáticas básicas como suma, resta, multiplicación, división, cálculo del mínimo común múltiplo (mcm), máximo común divisor (mcd) y valor absoluto. El usuario ingresa dos números y selecciona la operación deseada; al presionar el botón "Calcular", se muestra el resultado, y si es un entero positivo, se calcula y muestra su factorial. La aplicación también ofrece un botón para cerrar el programa.
 
 ## Estado del proyecto:
 Se encuentra en desarrollo. 
